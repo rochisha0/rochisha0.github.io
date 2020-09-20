@@ -20,9 +20,9 @@ function App() {
                     </div>
                      
                     <div class="container">
-                    <div class="img-responsive">
-                        <img src={logo} alt="my-pic" height="500" ></img>
-                        </div>
+                   
+                        <img src={logo} class="img-responsive" alt="my-pic" />
+                       
                         </div>
                     <div class="mdl-grid portfolio-copy">
                         <div class="container">
