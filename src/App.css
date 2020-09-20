@@ -23,9 +23,11 @@
   display: none;
 }
 
-.portfolio-logo-row {
-  min-height: 100px;
-  
+.name{
+  font-family: 'Meddon', cursive;
+  font-weight: bold;
+  font-size: xx-large;
+  color: rgb(196, 65, 130);
 }
 
 .is-compact .portfolio-logo-row {
@@ -113,12 +115,12 @@
 .text{
   margin-top: 10px;
   font-family: 'Raleway', sans-serif;
-  font-size: 15px;
+  font-size: 20px;
   color: gray;
 }
 
 .margin-left-small{
-  margin-right: 5px;
+  margin-right: 10px;
 }
 
 .portfolio-blog-card-bg > .mdl-card__actions {
@@ -188,4 +190,13 @@ footer {
 
 .pos{
   position: fixed;
+}
+
+strong{
+  color: palevioletred;
+}
+
+.side{
+  display: inline-block;
+  width: 50%;
 }

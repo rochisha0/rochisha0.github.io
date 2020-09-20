@@ -18,6 +18,7 @@ function App() {
                     <div class="mdl-card__title">
                         <h2 class="mdl-card__title-text mdl-layout">ABOUT</h2>
                     </div>
+                     
                     <div class="container">
                     <div class="img-responsive">
                         <img src={logo} alt="my-pic" height="500" ></img>
@@ -29,13 +30,13 @@ function App() {
                                Hello there! Welcome to my website. 
                             </p>
                             <p class="text">
-                            I am <strong>Rochisha Agarwal</strong>. 
+                            I am <strong class="name">Rochisha Agarwal</strong>. 
                             </p>
                             <p class="text">
                             I love all <strong>quantum </strong>stuff. 
                             </p>
                             <p class="text">
-                            I am currently pursuing Physics at <strong>Indian Institute of Technology Roorkee</strong>. 
+                            I am currently pursuing <strong>Physics</strong> at <strong>Indian Institute of Technology Roorkee</strong>. 
                             </p>
                             <p class="text">
                              In my free time I like solving mathematical puzzles and developing websites. 
@@ -47,7 +48,7 @@ function App() {
                             Don't forget to check my blogs and projects!
                             </p>
                             <p class="text">
-                            Feel free to contact me at: 
+                            Follow me at: 
                             </p>
                             <a href="https://github.com/rochisha0">
                              <i class="fa fa-github margin-left-small"></i>
@@ -55,7 +56,7 @@ function App() {
                             <a href="https://www.linkedin.com/in/rochisha-agarwal-1b3aa118b/">
                               <i class="fa fa-linkedin margin-left-small"></i>
                             </a>
-                            <p class="text">Or write to me at: rochisha.agarwal2302[at]gmail.com</p>
+                            <p class="text">Or contact me at: <strong>rochisha.agarwal2302[at]gmail.com</strong></p>
                         </div>
                       
                     </div>
