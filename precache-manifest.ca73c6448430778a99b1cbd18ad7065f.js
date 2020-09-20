@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b0b4998750603ef6cc3e73b46d5b00d2",
+    "revision": "4b230ab47a2aec833d67a15b0250e445",
     "url": "/rochisha0.github.io/index.html"
   },
   {
-    "revision": "349ee934f7811800d432",
-    "url": "/rochisha0.github.io/static/css/main.0bcbe63c.chunk.css"
+    "revision": "404596b393e721f63e8b",
+    "url": "/rochisha0.github.io/static/css/main.ace7d430.chunk.css"
   },
   {
     "revision": "8df8112e69b59de09749",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rochisha0.github.io/static/js/2.ae648cbb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "349ee934f7811800d432",
-    "url": "/rochisha0.github.io/static/js/main.80be8c6c.chunk.js"
+    "revision": "404596b393e721f63e8b",
+    "url": "/rochisha0.github.io/static/js/main.f50b5aa8.chunk.js"
   },
   {
     "revision": "07509536e3e8a253ed2a",
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rochisha0.github.io/static/media/finance.dabd50e6.jpeg"
   },
   {
-    "revision": "9e6229411ca7f72b17e909d40127f8e5",
-    "url": "/rochisha0.github.io/static/media/my-pic.9e622941.jpg"
+    "revision": "12d118cbf5e86cf7b671c1900d233b5f",
+    "url": "/rochisha0.github.io/static/media/my-pic.12d118cb.jpg"
   },
   {
     "revision": "f87b8b075388da0c2b2335a61ce488f7",
