@@ -4,6 +4,7 @@ import logo from './images/my-pic.jpg';
 import finance from './images/finance.jpeg'
 import books from './images/books.jpg'
 import plotly from './images/plotly.png'
+import qiskit from './images/qiskit.png'
 import Header from './components/Header';
 import Footer from './components/Footer';
 
@@ -20,18 +21,22 @@ function App() {
                     </div>
                      
                     <div class="container">
-                   
+                    <p class="text">
+                               Hello there! Welcome to my website. 
+                            </p>
+                            <p class="text">
+                              I am 
+                            </p>
+                            <p class="text margin-bottom">
+                             <strong class="name">Rochisha Agarwal</strong>. 
+                            </p>
+
                         <img src={logo} class="img-responsive" alt="my-pic" />
                        
                         </div>
                     <div class="mdl-grid portfolio-copy">
                         <div class="container">
-                            <p class="text">
-                               Hello there! Welcome to my website. 
-                            </p>
-                            <p class="text">
-                            I am <strong class="name">Rochisha Agarwal</strong>. 
-                            </p>
+                            
                             <p class="text">
                             I love all <strong>quantum </strong>stuff. 
                             </p>
@@ -101,11 +106,19 @@ function App() {
                     <div class="mdl-grid portfolio-copy">
                         <div class="container">
                             <p class="text">
-                             <strong> Intoduction to Plotly</strong>
+                             <strong> Interative Visualizations through Plotly</strong>
                             </p>
                             <div class="img-responsive">
                             <a href="https://medium.com/analytics-vidhya/introducing-plotly-for-interactive-visualizations-9d08792fc90c">
                                <img src={plotly} height="175" width="300" class="margin-bottom"></img>
+                            </a>
+                            </div>
+                            <p class="text">
+                             <strong> How I became a Qiskit Advocate</strong>
+                            </p>
+                            <div class="img-responsive">
+                            <a href="https://medium.com/@rochishaagarwal/how-i-became-a-qiskit-advocate-601cf59536cc">
+                               <img src={qiskit} height="175" width="300" class="margin-bottom"></img>
                             </a>
                             </div>
                         </div>
