@@ -56,10 +56,16 @@ function App() {
                             Follow me at: 
                             </p>
                             <a href="https://github.com/rochisha0">
-                             <i class="fa fa-github margin-left-small"></i>
+                             <i class="fa fa-github margin-left-small fa-lg"></i>
                             </a>
                             <a href="https://www.linkedin.com/in/rochisha-agarwal-1b3aa118b/">
                               <i class="fa fa-linkedin margin-left-small"></i>
+                            </a>
+                            <a href="https://medium.com/@rochishaagarwal">
+                            <i class="fa fa-medium margin-left-small"></i>
+                            </a>
+                            <a href="https://twitter.com/AgarwalRochisha">
+                                <i class="fa fa-twitter margin-left-small"></i>
                             </a>
                             <p class="text">Or contact me at: <strong>rochisha.agarwal2302[at]gmail.com</strong></p>
                         </div>
