@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "67eaebfcaa752387de3e6cc0fb724424",
+    "revision": "00f72b84a29a9f7a8ad01f847afa877a",
     "url": "/rochisha0.github.io/index.html"
   },
   {
-    "revision": "ad0d3c6998f7362c54f9",
+    "revision": "3693bb13d2472e837abf",
     "url": "/rochisha0.github.io/static/css/main.ddd79be4.chunk.css"
   },
   {
-    "revision": "d497f2215be627c9b6ab",
-    "url": "/rochisha0.github.io/static/js/2.e7ac813f.chunk.js"
+    "revision": "ea6b333d1aca58257ac9",
+    "url": "/rochisha0.github.io/static/js/2.f324f0fc.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/rochisha0.github.io/static/js/2.e7ac813f.chunk.js.LICENSE.txt"
+    "url": "/rochisha0.github.io/static/js/2.f324f0fc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ad0d3c6998f7362c54f9",
-    "url": "/rochisha0.github.io/static/js/main.a57c24c2.chunk.js"
+    "revision": "3693bb13d2472e837abf",
+    "url": "/rochisha0.github.io/static/js/main.e4a8904c.chunk.js"
   },
   {
     "revision": "07509536e3e8a253ed2a",
@@ -26,6 +26,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "949d7bd021f6cc695943a90024abf286",
     "url": "/rochisha0.github.io/static/media/books.949d7bd0.jpg"
+  },
+  {
+    "revision": "9e7f861e779972dfc29bdd64457c0fe8",
+    "url": "/rochisha0.github.io/static/media/duck_image.9e7f861e.png"
   },
   {
     "revision": "dabd50e62fe3630926a108ce40d89411",
